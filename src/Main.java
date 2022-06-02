@@ -64,9 +64,9 @@ public class Main {
             if (arrays1[i] % 2 == 1) {
                 arrays1[i] += 1;
             }
-            if (i != arrays1.length - 1) {
+            if (i != arrays1.length - 1)
                 System.out.print(arrays1[i] + ", ");
-            } else
+            else
                 System.out.println(arrays1[i]);
 
 
